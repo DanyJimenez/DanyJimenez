@@ -11,4 +11,4 @@
 ![logo](https://firebasestorage.googleapis.com/v0/b/portafoliodjh.appspot.com/o/Dany%20Jim%C3%A9nez.png?alt=media&token=39bc322b-aeaa-4df8-ad1e-2566a01b2418)
 
 ***
-I'm software developer. I like data analytics!
+I'm software developer. I'm data analyst too!
